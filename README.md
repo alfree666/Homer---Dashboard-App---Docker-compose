@@ -4,7 +4,7 @@ Homer - Dashboard App - Docker compose
 Ver en "localhost:8200"
 
 #######################################
-
+```
 EJEMPLO DE CONFIG.YML:
 
 ---
@@ -136,4 +136,4 @@ services:
         url: "https://code.visualstudio.com"
         target: "_blank" # optional html a tag target attribute        
 
-     
+    ``` 
